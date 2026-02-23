@@ -1,5 +1,12 @@
 # agent-marketplace-api
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/agent-marketplace-api/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/agent-marketplace-api/actions)
+![License](https://img.shields.io/github/license/yksanjo/agent-marketplace-api)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/agent-marketplace-api)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/agent-marketplace-api)
+
 ## Detailed Description
 
 agent-marketplace-api is maintained as an industry-grade software project with production-ready engineering practices.  
